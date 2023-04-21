@@ -1,0 +1,55 @@
+# Loan-Prediction-Classification by Aditi Bhadani
+
+A Classification Problem which predicts if a loan will get approved or not.
+
+Dataset-  
+
+* Two dataset has been provided in dataset folder (Test.csv and Train.csv)
+
+* The data has 615 rows and 13 columns.
+
+* Output data is generated and stored as Output_Generated.csv
+
+Dataset Description-
+
+* Variable Description
+
+1.Loan_ID - Unique Loan ID
+
+2. Gender - Male/ Female
+
+3.Married- Applicant married (Y/N)
+
+4. Dependents - Number of dependents
+
+5. Education - Applicant Education (Graduate/ Under Graduate)
+
+6. Self_Employed - Self employed (Y/N)
+
+7. ApplicantIncome - Applicant income
+
+8. CoapplicantIncome - Coapplicant income
+
+9. LoanAmount - Loan amount in thousands
+
+10. Loan_Amount_Term - Term of loan in months
+
+11. Credit_History - credit history meets guidelines
+
+12. Property_Area - Urban/ Semi Urban/ Rural
+
+13. Loan_Status - Loan approved (Y/N)
+
+Modules used - 
+
+1. Numpy - to perform a wide variety of mathematical operations on arrays.
+
+2. Pandas - to create dataframes and allowing you to access many of matplotlib's and NumPy's methods with less code.
+
+3. Matplotlib - to create 2D graphs and plots by using python scripts.
+
+4. Seaborn - to provide a high-level interface for drawing attractive and informative statistical graphics.
+
+5. Random - to perform some action randomly such as to get a random number, selecting a random elements from a list, shuffle elements randomly, etc.
+
+6. Sklearn - to provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
